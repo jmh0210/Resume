@@ -2,7 +2,7 @@
 ---
 
 <p>
-<div><img src = 증명사진.jpg height = 120 width = 120></div> 
+<img src = 증명사진.jpg height = 120 width = 120>
 **이름 : 장명홍**   
 **소속 : 소프트웨어융합대학**   
 **전공 : 스마트IoT**
