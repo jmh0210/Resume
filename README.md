@@ -3,11 +3,11 @@
 <p>
 <span height = 120 width = 120><img src = 증명사진.jpg height = 120 width = 120><br><br></span>
 
-<span height = 120 width = 120>
-이름 : 장명홍<br>
-소속 : 소프트웨어융합대학<br>
+<pre>
+이름 : 장명홍
+소속 : 소프트웨어융합대학
 전공 : 스마트IoT
-</span></p>
+</pre></p>
 
 **보유자격증 :**
 |자격증|취득일|
