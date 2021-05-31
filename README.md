@@ -1,7 +1,7 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <p>
-<span height = 120 width = 120><img src = 증명사진.jpg height = 120 width = 120></span>
+<span height = 120 width = 120><img src = 증명사진.jpg height = 120 width = 120><br><br></span>
 
 <span height = 120 width = 120>
 이름 : 장명홍<br>
