@@ -36,7 +36,7 @@
 블록체인, IoT기술
 
 
-                                                  **github address : [jmh0210][github]**   
-                                                  **tel : 000-0000-0000**
+**github address : [jmh0210][github]**   
+**tel : 000-0000-0000**
 
 [github]:http://github.com/jmh0210
